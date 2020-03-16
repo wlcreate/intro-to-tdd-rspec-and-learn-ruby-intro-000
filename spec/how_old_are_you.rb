@@ -1,4 +1,5 @@
-touch how_old_are_you
+touch how_old_are_you.#!/usr/bin/env ruby -wKU
+
 
 require_relative './current_age_for_birth_year.rb'
 
